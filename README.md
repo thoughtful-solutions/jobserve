@@ -68,15 +68,15 @@ python jobserve_scraper.py "DevOps engineer" --location "Leeds" --verbose
 
 ## Features
 
-✅ **Command-line interface** with argparse
-✅ **Job result limiting** - specify maximum number of jobs to retrieve
-✅ **Login support** (optional) for accessing more features
-✅ **Configurable search parameters** (keywords, location, radius, days)
-✅ **Date-ordered results** (newest first)
-✅ **Respectful scraping** with delays and proper headers
-✅ **Error handling** and logging
-✅ **Clean output format** with job details
-✅ **Debug mode** for troubleshooting
+✅ **Command-line interface** with argparse  
+✅ **Job result limiting** - specify maximum number of jobs to retrieve  
+✅ **Login support** (optional) for accessing more features  
+✅ **Configurable search parameters** (keywords, location, radius, days)  
+✅ **Date-ordered results** (newest first)  
+✅ **Respectful scraping** with delays and proper headers  
+✅ **Error handling** and logging  
+✅ **Clean output format** with job details  
+✅ **Debug mode** for troubleshooting  
 
 ## Output Format
 

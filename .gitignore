@@ -1,0 +1,7 @@
+# Python specific
+venv/
+*.pyc
+__pycache__
+# jobserve_scraper.py debug output
+debug_login_page.html
+debug_search_results.html
